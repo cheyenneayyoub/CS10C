@@ -1,0 +1,7 @@
+digraph G {
+bui -> adam;
+bui -> carr;
+chen -> bui;
+dan -> edie;
+chen -> dan;
+}
